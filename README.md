@@ -16,7 +16,7 @@ A collection of new grad roles for 2020.
 | American Express | Software Engineer | Phoenix, AZ Ft. Lauderfale, FL, New York, NY | https://jobs.americanexpress.com/jobs/19013265?lang=en-us&previousLocale=en-US |
 | Citrix | University Software Engineer | Raleigh, NC USA Ft Lauderdale, FL, USA  Burlington, MA, USA Santa Clara, CA, USA | https://jobs.citrix.com/job/CITRA0058R16110/University-Software-Engineer-for-2020 |
 | Essential Products | Software Engineer | Palo Alto, CA | https://jobs.lever.co/essential/6ded894a-304b-4cdd-a81c-2b6011dce8b4 |
-| Goldman Sach's | New York, NY Salt Lake City, UT | https://www.goldmansachs.com/careers/students/programs/americas/new-analyst-program.html | 
+| Goldman Sach's | New Analyst | New York, NY Salt Lake City, UT | https://www.goldmansachs.com/careers/students/programs/americas/new-analyst-program.html | 
 | JPMorgan | Software Engineer | New York, NY, USA | https://careers.jpmorgan.com/us/en/students/programs/software-engineer-fulltime |
 | Microsoft | Software Engineer, Data Science | Redmond, Washington, United States / Reston, Virginia, United States / Pittsburgh, Pennsylvania, United States | https://careers.microsoft.com/students/us/en |
 | Virtu Financial | Software Engineer, Financial Systems Dev | New York, NY, USA | https://boards.greenhouse.io/virtu/jobs/4301070002?gh_src=a40b00752 , https://boards.greenhouse.io/virtu/jobs/4263612002?gh_src=af02fdb02 |

@@ -16,4 +16,6 @@ A collection of new grad roles for 2020.
 | Microsoft | Software Engineer, Data Science | Redmond, Washington, United States / Reston, Virginia, United States / Pittsburgh, Pennsylvania, United States | https://careers.microsoft.com/students/us/en |
 | Virtu Financial | Software Engineer, Financial Systems Dev | New York, NY, USA | https://boards.greenhouse.io/virtu/jobs/4301070002?gh_src=a40b00752 , https://boards.greenhouse.io/virtu/jobs/4263612002?gh_src=af02fdb02 |
 | Zipline | Software Engineer | San Francisco, CA, USA | https://jobs.lever.co/flyzipline/2f8ac9b3-4f04-45f8-9abd-bdbe6a9f13b5 | 
+| Twitter | Software Engineer | San Francisco, CA, USA | https://jobs.smartrecruiters.com/ni/Twitter2/c9c8d155-aab8-43cb-a530-629689467768-2020-university-application-full-time-internship |
+| Captial One | Software Engineer | Mutiple | https://campus.capitalone.com/job/mclean/technology-development-program-associate-2020/1786/12562815 |
 

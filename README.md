@@ -13,5 +13,6 @@ A collection of new grad roles for 2020.
 |---|---|---|---|
 | Example | Site Reliability Engineer | San Francisco, CA, USA | https://example.com/job |
 | JPMorgan | Software Engineer | New York, NY, USA | https://careers.jpmorgan.com/us/en/students/programs/software-engineer-fulltime |
+| Microsoft | Software Engineer, Data Science | Redmond, Washington, United States / Reston, Virginia, United States / Pittsburgh, Pennsylvania, United States | https://careers.microsoft.com/students/us/en
 | Zipline | Software Engineer | San Francisco, CA, USA | https://jobs.lever.co/flyzipline/2f8ac9b3-4f04-45f8-9abd-bdbe6a9f13b5 | 
 

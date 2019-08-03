@@ -14,6 +14,7 @@ A collection of new grad roles for 2020.
 | Example | Site Reliability Engineer | San Francisco, CA, USA | https://example.com/job |
 | Akuna Capital | Junior Developer | Chicago, IL | https://akunacapital.com/job-details?gh_jid=1755321 |
 | American Express | Software Engineer | Phoenix, AZ, USA; Ft. Lauderdale, FL, USA; New York, NY, USA | https://jobs.americanexpress.com/jobs/19013265?lang=en-us&previousLocale=en-US |
+| Cisco | Software Engineer | Multiple Locations | https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Bachelor-s-Full-Time-United-States/1265288?source=Cisco+Jobs+Career+Site&tags=CDC+SnNG+engineering-university-program | 
 | Citrix | University Software Engineer | Raleigh, NC, USA; Ft Lauderdale, FL, USA;  Burlington, MA, USA; Santa Clara, CA, USA | https://jobs.citrix.com/job/CITRA0058R16110/University-Software-Engineer-for-2020 |
 | Essential Products | Software Engineer | Palo Alto, CA | https://jobs.lever.co/essential/6ded894a-304b-4cdd-a81c-2b6011dce8b4 |
 | Facebook | Software Engineer, University Grad | Boston, MA, USA; Washington, DC, USA; New York, NY, USA; Seattle, WA, USA; Menlo Park, CA, USA | https://www.facebook.com/careers/jobs/859448991102087/ |

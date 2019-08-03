@@ -26,4 +26,5 @@ A collection of new grad roles for 2020.
 | Virtu Financial | Software Engineer, Financial Systems Dev | New York, NY, USA | https://boards.greenhouse.io/virtu/jobs/4301070002?gh_src=a40b00752 , https://boards.greenhouse.io/virtu/jobs/4263612002?gh_src=af02fdb02 |
 | Yelp | Software Engineer, New Grad | San Francisco, CA | https://www.yelp.com/careers/teams/college-engineering |
 | Zipline | Software Engineer | San Francisco, CA, USA | https://jobs.lever.co/flyzipline/2f8ac9b3-4f04-45f8-9abd-bdbe6a9f13b5 | 
+| Duolingo | Software Engineer | Pittsburgh, Pennsylvania | https://boards.greenhouse.io/duolingo/jobs/4351725002 |
 

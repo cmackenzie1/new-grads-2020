@@ -13,6 +13,7 @@ A collection of new grad roles for 2020.
 |---|---|---|---|
 | Example | Site Reliability Engineer | San Francisco, CA, USA | https://example.com/job |
 | Akuna Capital | Junior Developer | Chicago, IL | https://akunacapital.com/job-details?gh_jid=1755321 |
+| Amazon | Software Development Engineer | Seattle, WA; Austin, TX; Bay Area, CA; Bellevue, WA; Boston, MA; Denver, CO; Detroit, MI; Herndon, VA; Irvine, CA; New York, NY; Madison, WI; Minneapolis, MN; Phoenix, AZ; Portland, OR; San Diego, CA. | https://www.amazon.jobs/en/jobs/908703/software-development-engineer-2020-united-states |
 | American Express | Software Engineer | Phoenix, AZ, USA; Ft. Lauderdale, FL, USA; New York, NY, USA | https://jobs.americanexpress.com/jobs/19013265?lang=en-us&previousLocale=en-US |
 | Captial One | Software Engineer | McLean, Virginia; Boston, Massachusetts; New York, New York; San Francisco, California; Chicago, Illinois; Wilmington, Delaware; Richmond, Virginia; Plano, Texas | https://campus.capitalone.com/job/mclean/technology-development-program-associate-2020/1786/12562815 |
 | Cisco | Software Engineer | RTP, NC - San Francisco, CA - Richardson, TX - Austin, TX - Cambridge, MA - Richfield, OH - Knoxville, TN - Lawrenceville, GA | https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Bachelor-s-Full-Time-United-States/1265288?source=Cisco+Jobs+Career+Site&tags=CDC+SnNG+engineering-university-program | 
@@ -22,6 +23,7 @@ A collection of new grad roles for 2020.
 | Goldman Sach's | New Analyst | New York, NY, USA; Salt Lake City, UT, USA | https://www.goldmansachs.com/careers/students/programs/americas/new-analyst-program.html | 
 | JPMorgan | Software Engineer | New York, NY, USA | https://careers.jpmorgan.com/us/en/students/programs/software-engineer-fulltime |
 | Microsoft | Software Engineer, Data Science | Redmond, Washington, United States / Reston, Virginia, United States / Pittsburgh, Pennsylvania, United States | https://careers.microsoft.com/students/us/en |
+| Oculus(Facebook) | Software Engineer, University Grad | Menlo Park, CA | https://www.facebook.com/careers/jobs/458201948352945/ |
 | Twitter | Software Engineer | San Francisco, CA, USA | https://jobs.smartrecruiters.com/ni/Twitter2/c9c8d155-aab8-43cb-a530-629689467768-2020-university-application-full-time-internship |
 | Virtu Financial | Software Engineer, Financial Systems Dev | New York, NY, USA | https://boards.greenhouse.io/virtu/jobs/4301070002?gh_src=a40b00752 , https://boards.greenhouse.io/virtu/jobs/4263612002?gh_src=af02fdb02 |
 | Yelp | Software Engineer, New Grad | San Francisco, CA | https://www.yelp.com/careers/teams/college-engineering |

@@ -30,10 +30,12 @@ A collection of new grad roles for 2020.
 | JPMorgan | Software Engineer | New York, NY, USA | https://careers.jpmorgan.com/us/en/students/programs/software-engineer-fulltime |
 | Lime | Software Engineer | Bay Area, CA, USA | https://jobs.lever.co/limebike/fbea1c67-c6a9-42ba-a0a3-475098487a99 |
 | Microsoft | Software Engineer, Data Science | Redmond, Washington, United States / Reston, Virginia, United States / Pittsburgh, Pennsylvania, United States | https://careers.microsoft.com/students/us/en |
+| NASA Jet Propulsion Laboratory | Software Computing Systems Engineer | Pasadena, CA, US | https://jpl.jobs/jobs/2019-10913-Software-Computing-Systems-Engineer-New-Grad |
 | Nutanix | MTS Developer - New Grad (System) | San Jose, CA | https://nutanix.eightfold.ai/careers/job?domain=nutanix.com&pid=84009&pid=84009&domain=nutanix.com |
 | Oculus(Facebook) | Software Engineer, University Grad | Menlo Park, CA | https://www.facebook.com/careers/jobs/458201948352945/ |
 | Robinhood | Android Engineer, Backend Engineer, Infrastructure Engineer, iOS Engineer, Security Engineer, Software Engineer (Data), Web Engineer | Menlo Park, CA, US | https://careers.robinhood.com/openings |
 | Rockset | Software Engineer | San Mateo, CA, US | https://hire.withgoogle.com/public/jobs/rocksetio/view/P_AAAAAADAAADMgOiflDNuLe |
+| Thumbtack | Software Engineer | San Francisco, CA, USA | https://boards.greenhouse.io/thumbtack/jobs/1814757?gh_src=6262b31c1 |
 | Twitter | Software Engineer | San Francisco, CA, USA | https://jobs.smartrecruiters.com/ni/Twitter2/c9c8d155-aab8-43cb-a530-629689467768-2020-university-application-full-time-internship |
 | Virtu Financial | Software Engineer, Financial Systems Dev | New York, NY, USA | https://boards.greenhouse.io/virtu/jobs/4301070002?gh_src=a40b00752 , https://boards.greenhouse.io/virtu/jobs/4263612002?gh_src=af02fdb02 |
 | Yelp | Software Engineer, New Grad | San Francisco, CA | https://www.yelp.com/careers/teams/college-engineering |

@@ -6,7 +6,8 @@ A collection of new grad roles for 2020.
 1. Edit README.md
     1. Keep the list alphabetical by company
 1. Create PR
-1. Profit???
+1. ????
+1. Profit
 
 ## Open Applications
 | Company | Position | Location | Link |

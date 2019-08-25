@@ -28,7 +28,7 @@ A collection of new grad roles for 2020.
 | Facebook | Software Engineer, University Grad | Boston, MA, USA; Washington, DC, USA; New York, NY, USA; Seattle, WA, USA; Menlo Park, CA, USA | https://www.facebook.com/careers/jobs/859448991102087/ |
 | Figma | Software Engineer - New Grad | San Francisco | https://jobs.lever.co/figma/8def0709-75f2-415d-9360-30fcfdf15587 |
 | Goldman Sach's | New Analyst | New York, NY, USA; Salt Lake City, UT, USA | https://www.goldmansachs.com/careers/students/programs/americas/new-analyst-program.html |
-| Gusto | Software Engineer | San Francisco, CA, USA; Denver, CO, USA | https://boards.greenhouse.io/gusto/jobs/1816724, https://boards.greenhouse.io/gusto/jobs/1823033 |
+| Gusto | Software Engineer | San Francisco, CA, USA; Denver, CO, USA | https://boards.greenhouse.io/gusto/jobs/1816724, https://boards.greenhouse.io/gusto/jobs/1823749 |
 | Hewlett Packard Enterprise | Platform Engineer | Ft. Collins, Colorado | https://careers.hpe.com/job/Hewlett-Packard-Enterprise-Ft.-Collins-Platform-Engineer-Graduate-Program-Colorado/52471296 |
 | Hudson River Trading | Algo Developer, Software Engineer | New York, Austin, Chicago | http://www.hudson-trading.com/careers/job/?gh_jid=82675 (NY only), http://www.hudson-trading.com/careers/job/?gh_jid=86641 |
 | JPMorgan | Software Engineer | New York, NY, USA | https://careers.jpmorgan.com/us/en/students/programs/software-engineer-fulltime |

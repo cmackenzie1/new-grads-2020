@@ -32,7 +32,7 @@ A collection of new grad roles for 2020.
 | Flexport | Software Engineer: New Graduate | San Francisco, CA | https://boards.greenhouse.io/flexport/jobs/1802505 |
 | Figma | Software Engineer - New Grad | San Francisco | https://jobs.lever.co/figma/8def0709-75f2-415d-9360-30fcfdf15587 |
 | Goldman Sach's | New Analyst | New York, NY, USA; Salt Lake City, UT, USA | https://www.goldmansachs.com/careers/students/programs/americas/new-analyst-program.html |
-| Google | Software Engineer - University Graduate | Mountain View, CA; Austn, TX; Boulder, CO; Kirkland, WA; Madison, WI; Pittsburgh, PA; Seattle, WA | https://careers.google.com/jobs/results/132614933129896646-software-engineer-university-graduate/?src=Online%2FLinkedIn%2Flinkedin_us&utm_campaign=contract&utm_medium=jobposting&utm_source=linkedin |
+| Google | Software Engineer - University Graduate | Mountain View, CA; Austn, TX; Boulder, CO; Kirkland, WA; Madison, WI; Pittsburgh, PA; Seattle, WA | https://careers.google.com/jobs/results/132614933129896646-software-engineer-university-graduate/ |
 | Gusto | Software Engineer | San Francisco, CA, USA; Denver, CO, USA | https://boards.greenhouse.io/gusto/jobs/1816724, https://boards.greenhouse.io/gusto/jobs/1823749 |
 | Hewlett Packard Enterprise | Platform Engineer | Ft. Collins, Colorado | https://careers.hpe.com/job/Hewlett-Packard-Enterprise-Ft.-Collins-Platform-Engineer-Graduate-Program-Colorado/52471296 |
 | Hudson River Trading | Algo Developer, Software Engineer | New York, Austin, Chicago | http://www.hudson-trading.com/careers/job/?gh_jid=82675 (NY only), http://www.hudson-trading.com/careers/job/?gh_jid=86641 |

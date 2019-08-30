@@ -42,6 +42,7 @@ A collection of new grad roles for 2020.
 | Microsoft | Software Engineer, Data Science | Redmond, Washington, United States / Reston, Virginia, United States / Pittsburgh, Pennsylvania, United States | https://careers.microsoft.com/students/us/en |
 | Palantir | Software Engineer, University Grad | New York, NY, USA; Washington, D.C. | https://jobs.lever.co/palantir/136703f3-37a8-4308-84ef-4e2865daf577?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic https://jobs.lever.co/palantir/93ea128e-cad5-4c46-a42e-04bb9f6fdfbe?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic |
 | Qualtrics | Software Engineer, College Grad | Provo, UT, USA; Seattle, WA, USA | https://boards.greenhouse.io/qualtrics/jobs/52430 |
+| Quora | Software Engineer Apprentice | Mountain View, CA, USA | https://jobs.lever.co/quora/19c6eb11-22f1-4815-8382-0e78e70a6ddd?lever-source=glassdoor |
 | Redfin | Software Developer I | Frisco, TX, USA; Seattle, WA, USA; San Francisco, CA, USA | https://redfin.wd1.myworkdayjobs.com/redfin_careers/job/WA---Seattle/Software-Developer-I---Seattle--WA---San-Francisco--CA---Frisco--TX_23751 |
 | Robinhood | Android Engineer, Backend Engineer, Infrastructure Engineer, iOS Engineer, Security Engineer, Software Engineer (Data), Web Engineer | Menlo Park, CA, US | https://careers.robinhood.com/openings |
 | Rockset | Software Engineer | San Mateo, CA, US | https://hire.withgoogle.com/public/jobs/rocksetio/view/P_AAAAAADAAADMgOiflDNuLe |
@@ -50,5 +51,7 @@ A collection of new grad roles for 2020.
 | Twitter | Software Engineer | San Francisco, CA, USA | https://jobs.smartrecruiters.com/ni/Twitter2/c9c8d155-aab8-43cb-a530-629689467768-2020-university-application-full-time-internship |
 | Two Sigma | Software Engineer | New York, NY, USA | https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Software-Engineer/389 |
 | Virtu Financial | Software Engineer, Financial Systems Dev | New York, NY, USA | https://boards.greenhouse.io/virtu/jobs/4301070002?gh_src=a40b00752 , https://boards.greenhouse.io/virtu/jobs/4263612002?gh_src=af02fdb02 |
+| Willowtree | Software Engineer - New Grad | Durham, NC | https://willowtreeapps.com/careers/jobs/4380969002/software-engineer-new-grad |
+| Willowtree | Software Test Engineer - New Grad | Durham, NC | https://willowtreeapps.com/careers/jobs/4381010002/software-test-engineer-new-grad |
 | Wish | Software Engineer, New Grad | San Francisco, CA | https://jobs.lever.co/wish/2173348c-7453-4363-aabd-ba8511e31bea |
 | Yelp | Software Engineer, New Grad | San Francisco, CA | https://www.yelp.com/careers/teams/college-engineering |

@@ -12,6 +12,7 @@ A collection of new grad roles for 2020.
 ## Open Applications
 | Company | Position | Location | Link |
 | --- | --- | --- | --- |
+| Airbnb | Software Engineer, New Grad 2020 | Portland, OR, San Francisco, CA, Seattle WA | https://careers.airbnb.com/positions/1820862/ | 
 | Akuna Capital | Junior Developer | Chicago, IL | https://akunacapital.com/job-details?gh_jid=1755321 |
 | Amazon | Software Development Engineer | Seattle, WA; Austin, TX; Bay Area, CA; Bellevue, WA; Boston, MA; Denver, CO; Detroit, MI; Herndon, VA; Irvine, CA; New York, NY; Madison, WI; Minneapolis, MN; Phoenix, AZ; Portland, OR; San Diego, CA. | https://www.amazon.jobs/en/jobs/908703/software-development-engineer-2020-united-states |
 | American Express | Software Engineer | Phoenix, AZ, USA; Ft. Lauderdale, FL, USA; New York, NY, USA | https://jobs.americanexpress.com/jobs/19013265?lang=en-us&previousLocale=en-US |
@@ -39,6 +40,7 @@ A collection of new grad roles for 2020.
 | IBM | Frontend Engineer,Backend Engineer | Tucson, AZ; Costa Mesa, CA; Emeryville, CA; Foster City, CA; San Francisco, CA; San Jose, CA; Denver, CO; Atlanta, GA; Sandy Springs, GA; Chicago, IL; Cambridge, MA; Littleton,  MA; Rochester, MN; Durham, NC; Raleigh, NC; Endicott, NY; Hopewell Junction, NY; North Castle, NY; Manhatten, NY; Poughkeepsie, NY; Yorktown Heights, NY; Dublin, OH; Blue Bell, PA; Pittsburgh, PA; Austin, TX; Dallas, TX; Houston, TX; Irving, TX | https://careers.ibm.com/ShowJob/Id/718044/Entry-Level-Front-End-Developer/?lang=en https://careers.ibm.com/ShowJob/Id/718042/Entry-Level-Back-End-Developer/?lang=en |
 | JPMorgan | Software Engineer | New York, NY, USA | https://careers.jpmorgan.com/us/en/students/programs/software-engineer-fulltime |
 | Lime | Software Engineer | Bay Area, CA, USA | https://jobs.lever.co/limebike/fbea1c67-c6a9-42ba-a0a3-475098487a99 |
+| Lyft | 2020 New Grad Software Engineer, Generalist | San Francisco, CA, Seattle, WA | https://boards.greenhouse.io/lyft/jobs/4374104002?gh_jid=4374104002 |
 | Microsoft | Software Engineer, Data Science | Redmond, Washington, United States / Reston, Virginia, United States / Pittsburgh, Pennsylvania, United States | https://careers.microsoft.com/students/us/en |
 | Palantir | Software Engineer, University Grad | New York, NY, USA; Washington, D.C. | https://jobs.lever.co/palantir/136703f3-37a8-4308-84ef-4e2865daf577?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic https://jobs.lever.co/palantir/93ea128e-cad5-4c46-a42e-04bb9f6fdfbe?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic |
 | Qualtrics | Software Engineer, College Grad | Provo, UT, USA; Seattle, WA, USA | https://boards.greenhouse.io/qualtrics/jobs/52430 |

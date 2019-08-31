@@ -50,6 +50,7 @@ A collection of new grad roles for 2020.
 | RetailMeNot | Software Engineer - New Grad | Austin, TX | https://jobs.lever.co/retailmenot/e882a767-649b-4c70-a23b-5662653d03c0 |
 | Robinhood | Android Engineer, Backend Engineer, Infrastructure Engineer, iOS Engineer, Security Engineer, Software Engineer (Data), Web Engineer | Menlo Park, CA, US | https://careers.robinhood.com/openings |
 | Rockset | Software Engineer | San Mateo, CA, US | https://hire.withgoogle.com/public/jobs/rocksetio/view/P_AAAAAADAAADMgOiflDNuLe |
+| Samsara | Software Engineer | San Francisco, CA, US; Atlanta, GA, US | https://boards.greenhouse.io/samsara/jobs/1806764 https://boards.greenhouse.io/samsara/jobs/1818464|
 | Stripe | Software Engineer | Seattle, WA, US; San Francisco, CA, US | https://stripe.com/jobs/listing/new-grad-software-engineer/1802651 https://stripe.com/jobs/listing/new-grad-software-engineer/1802651 |
 | Thumbtack | Software Engineer | San Francisco, CA, USA | https://boards.greenhouse.io/thumbtack/jobs/1814757?gh_src=6262b31c1 |
 | Twitter | Software Engineer | San Francisco, CA, USA | https://jobs.smartrecruiters.com/ni/Twitter2/c9c8d155-aab8-43cb-a530-629689467768-2020-university-application-full-time-internship |

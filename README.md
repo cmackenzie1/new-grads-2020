@@ -31,6 +31,7 @@ A collection of new grad roles for 2020.
 | Duolingo | Software Engineer | Pittsburgh, Pennsylvania | https://boards.greenhouse.io/duolingo/jobs/4351725002 |
 | Essential Products | Software Engineer | Palo Alto, CA | https://jobs.lever.co/essential/6ded894a-304b-4cdd-a81c-2b6011dce8b4 |
 | Facebook | Software Engineer, University Grad | Boston, MA, USA; Washington, DC, USA; New York, NY, USA; Seattle, WA, USA; Menlo Park, CA, USA | https://www.facebook.com/careers/jobs/859448991102087/ |
+| Factual | Software Engineer, New Grad | Los Angeles, CA | https://www.factual.com/company/careers/?gh_jid=276588 |
 | Flexport | Software Engineer: New Graduate | San Francisco, CA | https://boards.greenhouse.io/flexport/jobs/1802505 |
 | Figma | Software Engineer - New Grad | San Francisco | https://jobs.lever.co/figma/8def0709-75f2-415d-9360-30fcfdf15587 |
 | Goldman Sach's | New Analyst | New York, NY, USA; Salt Lake City, UT, USA | https://www.goldmansachs.com/careers/students/programs/americas/new-analyst-program.html |

@@ -62,3 +62,4 @@ A collection of new grad roles for 2020.
 | Willowtree | Software Test Engineer - New Grad | Durham, NC | https://willowtreeapps.com/careers/jobs/4381010002/software-test-engineer-new-grad |
 | Wish | Software Engineer, New Grad | San Francisco, CA | https://jobs.lever.co/wish/2173348c-7453-4363-aabd-ba8511e31bea |
 | Yelp | Software Engineer, New Grad | San Francisco, CA | https://www.yelp.com/careers/teams/college-engineering |
+| Yext | 2020 Software Engineer, New Graduate | New York, USA | https://boards.greenhouse.io/yext/jobs/1808254 |

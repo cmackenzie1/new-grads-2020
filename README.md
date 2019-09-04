@@ -61,7 +61,7 @@ A collection of new grad roles for 2020.
 | Twitter | Software Engineer | San Francisco, CA, USA | https://jobs.smartrecruiters.com/ni/Twitter2/c9c8d155-aab8-43cb-a530-629689467768-2020-university-application-full-time-internship |
 | Two Sigma | Software Engineer | New York, NY, USA | https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Software-Engineer/389 |
 | Virtu Financial | Software Engineer, Financial Systems Dev | New York, NY, USA | https://boards.greenhouse.io/virtu/jobs/4301070002?gh_src=a40b00752 , https://boards.greenhouse.io/virtu/jobs/4263612002?gh_src=af02fdb02 |
-| Visa | Software Engineer, New Grad | https://jobs.smartrecruiters.com/Visa/743999694382127-new-college-grad-software-engineer-bachelor-s-degree-multiple-locations?trid=623f64f4-c657-499b-989f-&fbclid=IwAR2P3hTYNymsJ4moQjtPbUC-SNGnq_Nv0lWm4JOWj2E2LMA3qmYvqtx8ylA | 
+| Visa | Software Engineer, New Grad | New York, NY, US; San Francisco, CA, US | https://jobs.smartrecruiters.com/Visa/743999694382127-new-college-grad-software-engineer-bachelor-s-degree-multiple-locations | 
 | Willowtree | Software Engineer - New Grad | Durham, NC | https://willowtreeapps.com/careers/jobs/4380969002/software-engineer-new-grad |
 | Willowtree | Software Test Engineer - New Grad | Durham, NC | https://willowtreeapps.com/careers/jobs/4381010002/software-test-engineer-new-grad |
 | Wish | Software Engineer, New Grad | San Francisco, CA | https://jobs.lever.co/wish/2173348c-7453-4363-aabd-ba8511e31bea |

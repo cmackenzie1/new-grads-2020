@@ -55,7 +55,7 @@ A collection of new grad roles for 2020.
 | Robinhood | Android Engineer, Backend Engineer, Infrastructure Engineer, iOS Engineer, Security Engineer, Software Engineer (Data), Web Engineer | Menlo Park, CA, US | https://careers.robinhood.com/openings |
 | Rockset | Software Engineer | San Mateo, CA, US | https://hire.withgoogle.com/public/jobs/rocksetio/view/P_AAAAAADAAADMgOiflDNuLe |
 | Samsara | Software Engineer | San Francisco, CA, US; Atlanta, GA, US | https://boards.greenhouse.io/samsara/jobs/1806764 https://boards.greenhouse.io/samsara/jobs/1818464|
-| Stripe | Software Engineer | Seattle, WA, US; San Francisco, CA, US | https://stripe.com/jobs/listing/new-grad-software-engineer/1802651 https://stripe.com/jobs/listing/new-grad-software-engineer/1802651 |
+| Stripe | Software Engineer | Seattle, WA, US | https://stripe.com/jobs/listing/new-grad-software-engineer/1802651 |
 | Teachable | Software Engineer (New Graduate) 2020 | New York, USA | https://teachable.com/job_posts/c95762f0-1ea4-4e83-a855-d020f722c445 |
 | Thumbtack | Software Engineer | San Francisco, CA, USA | https://boards.greenhouse.io/thumbtack/jobs/1814757?gh_src=6262b31c1 |
 | Twilio | Software Engineer- New Grad | San Francisco CA, US; Denver, CO, USl; Irvine, CA, US; Redwood City, CA, US | https://boards.greenhouse.io/twilio/jobs/1828798 

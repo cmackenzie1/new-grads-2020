@@ -47,7 +47,7 @@ A collection of new grad roles for 2020.
 | Lyft | 2020 New Grad Software Engineer, Generalist | San Francisco, CA, Seattle, WA | https://boards.greenhouse.io/lyft/jobs/4374104002?gh_jid=4374104002 |
 | Microsoft | Software Engineer, Data Science | Redmond, Washington, United States / Reston, Virginia, United States / Pittsburgh, Pennsylvania, United States | https://careers.microsoft.com/students/us/en |
 | Palantir | Software Engineer, University Grad | New York, NY, USA; Washington, D.C. | https://jobs.lever.co/palantir/136703f3-37a8-4308-84ef-4e2865daf577?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic https://jobs.lever.co/palantir/93ea128e-cad5-4c46-a42e-04bb9f6fdfbe?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic |
-| Qualtrics | Software Engineer, College Grad | Provo, UT, USA; Seattle, WA, USA | https://boards.greenhouse.io/qualtrics/jobs/52430 |
+| Qualtrics | Software Engineer, College Grad | Provo, UT, USA; Seattle, WA, USA | https://boards.greenhouse.io/qualtrics/jobs/260179 |
 | Quantcast | Software Engineer, New Graduate 2020 | San Francisco, CA | https://jobs.lever.co/quantcast/cdcd6329-6d27-4639-98eb-0d0a762ee735 |
 | Quora | Software Engineer Apprentice | Mountain View, CA, USA | https://jobs.lever.co/quora/19c6eb11-22f1-4815-8382-0e78e70a6ddd?lever-source=glassdoor |
 | Redfin | Software Developer I | Frisco, TX, USA; Seattle, WA, USA; San Francisco, CA, USA | https://redfin.wd1.myworkdayjobs.com/redfin_careers/job/WA---Seattle/Software-Developer-I---Seattle--WA---San-Francisco--CA---Frisco--TX_23751 |

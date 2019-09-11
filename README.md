@@ -25,6 +25,7 @@ A collection of new grad roles for 2020.
 | Capital One | Software Engineer | McLean, Virginia; Boston, Massachusetts; New York, New York; San Francisco, California; Chicago, Illinois; Wilmington, Delaware; Richmond, Virginia; Plano, Texas | https://campus.capitalone.com/job/mclean/technology-development-program-associate-2020/1786/12562815 |
 | Cisco | Software Engineer | RTP, NC - San Francisco, CA - Richardson, TX - Austin, TX - Cambridge, MA - Richfield, OH - Knoxville, TN - Lawrenceville, GA | https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Bachelor-s-Full-Time-United-States/1265288?source=Cisco+Jobs+Career+Site&tags=CDC+SnNG+engineering-university-program |
 | Citrix | University Software Engineer | Raleigh, NC, USA; Ft Lauderdale, FL, USA;  Burlington, MA, USA; Santa Clara, CA, USA | https://jobs.citrix.com/job/CITRA0058R16110/University-Software-Engineer-for-2020 |
+| Cruise | Software Engineer - Infra Engineering (2020) | San Francisco, CA | https://boards.greenhouse.io/cruiseuniversity/jobs/1852356 |
 | Databricks | Software Engineer - New Grad | San Francisco, CA | https://boards.greenhouse.io/databricks/jobs/4364076002 |
 | Datadog | Software Engineer - Recent Graduate | Boston, MA; New York, NY | https://www.datadoghq.com/careers/detail/?gh_jid=1826267 |
 | Dell | Data Storage Software Engineer | Seattle, WA | https://jobs.dell.com/job/seattle/data-storage-software-engineer-new-graduate-seattle-wa/375/9079995 |

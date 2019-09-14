@@ -13,7 +13,7 @@ A collection of new grad roles for 2020.
 | Company | Position | Location | Link |
 | --- | --- | --- | --- |
 | Affirm | Software Engineer - New Grad 2020 | San Francisco, CA | https://jobs.lever.co/affirm/df87945c-182f-49d6-b323-691ce5c73a53 |
-| Airbnb | Software Engineer, New Grad 2020 | Portland, OR, San Francisco, CA, Seattle WA | https://careers.airbnb.com/positions/1820862/ | 
+| Airbnb | Software Engineer, New Grad 2020 | Portland, OR, San Francisco, CA, Seattle WA | https://careers.airbnb.com/positions/1820862/ |
 | Akuna Capital | Junior Developer | Chicago, IL | https://akunacapital.com/job-details?gh_jid=1755321 |
 | Amazon | Software Development Engineer | Seattle, WA; Austin, TX; Bay Area, CA; Bellevue, WA; Boston, MA; Denver, CO; Detroit, MI; Herndon, VA; Irvine, CA; New York, NY; Madison, WI; Minneapolis, MN; Phoenix, AZ; Portland, OR; San Diego, CA. | https://www.amazon.jobs/en/jobs/908703/software-development-engineer-2020-united-states |
 | American Express | Software Engineer | Phoenix, AZ, USA; Ft. Lauderdale, FL, USA; New York, NY, USA | https://jobs.americanexpress.com/jobs/19013265?lang=en-us&previousLocale=en-US |
@@ -22,15 +22,17 @@ A collection of new grad roles for 2020.
 | Atlassian | Software Developer- 2020 Graduate | Mountain View, CA, USA | https://www.atlassian.com/company/careers/detail/5f0772a8-6df5-40f0-8f1a-044effca6699 |
 | Bloomberg | Software Engineer | New York, NY | https://careers.bloomberg.com/job/detail/76851 |
 | Bolt | Software Engineer | Toronto, Ontario, Canada; San Francisco, CA, USA | https://www.bolt.com/jobs/software-engineer-new-grad-toronto/b73a1a03-0547-4753-97b4-192affe9a1de/ https://www.bolt.com/jobs/software-engineer-new-grad-sf/397d3220-611b-4f08-ba87-0a03b0d610d6/ |
+| C3.ai | Software Engineer | Redwood City, CA |  https://boards.greenhouse.io/c3iot/jobs/4416889002 |
 | Capital One | Software Engineer | McLean, Virginia; Boston, Massachusetts; New York, New York; San Francisco, California; Chicago, Illinois; Wilmington, Delaware; Richmond, Virginia; Plano, Texas | https://campus.capitalone.com/job/mclean/technology-development-program-associate-2020/1786/12562815 |
 | Cisco | Software Engineer | RTP, NC - San Francisco, CA - Richardson, TX - Austin, TX - Cambridge, MA - Richfield, OH - Knoxville, TN - Lawrenceville, GA | https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Bachelor-s-Full-Time-United-States/1265288?source=Cisco+Jobs+Career+Site&tags=CDC+SnNG+engineering-university-program |
-Confluent | Backend Software Engineer, New Grad | Palo Alto,CA | https://jobs.lever.co/confluent/e825f59b-85db-4bd4-b501-40676b3c170b | 
+| Cockroach Labs | Software Engineer (Backend); Software Engineer (Frontend) | New York, NY; San Francisco, CA | https://www.cockroachlabs.com/careers/job/?gh_jid=1747769, https://www.cockroachlabs.com/careers/job/?gh_jid=1831902 |
+| Confluent | Backend Software Engineer, New Grad | Palo Alto,CA | https://jobs.lever.co/confluent/e825f59b-85db-4bd4-b501-40676b3c170b |
 | Citrix | University Software Engineer | Raleigh, NC, USA; Ft Lauderdale, FL, USA;  Burlington, MA, USA; Santa Clara, CA, USA | https://jobs.citrix.com/job/CITRA0058R16110/University-Software-Engineer-for-2020 |
 | Cruise | Software Engineer - Infra Engineering (2020) | San Francisco, CA | https://boards.greenhouse.io/cruiseuniversity/jobs/1852356 |
 | Databricks | Software Engineer - New Grad | San Francisco, CA | https://boards.greenhouse.io/databricks/jobs/4364076002 |
 | Datadog | Software Engineer - Recent Graduate | Boston, MA; New York, NY | https://www.datadoghq.com/careers/detail/?gh_jid=1826267 |
 | Dell | Data Storage Software Engineer | Seattle, WA | https://jobs.dell.com/job/seattle/data-storage-software-engineer-new-graduate-seattle-wa/375/9079995 |
-| Discover | 2020 Technology College Hire Program - Software Developer | Riverwoods, IL | https://jobs.discover.com/job/10027266/2020-technology-college-hire-program---software-developer-riverwoods-il/ | 
+| Discover | 2020 Technology College Hire Program - Software Developer | Riverwoods, IL | https://jobs.discover.com/job/10027266/2020-technology-college-hire-program---software-developer-riverwoods-il/ |
 | Dropbox | Software Engineer University Grad | San Francisco, CA; Seattle, WA; New York, NY | https://www.dropbox.com/jobs/listing/1806456 |
 | Duolingo | Software Engineer | Pittsburgh, Pennsylvania | https://boards.greenhouse.io/duolingo/jobs/4351725002 |
 | Facebook | Software Engineer, University Grad | Boston, MA, USA; Washington, DC, USA; New York, NY, USA; Seattle, WA, USA; Menlo Park, CA, USA | https://www.facebook.com/careers/jobs/859448991102087/ |
@@ -49,8 +51,10 @@ Confluent | Backend Software Engineer, New Grad | Palo Alto,CA | https://jobs.le
 | Lyft | 2020 New Grad Software Engineer, Generalist | San Francisco, CA, Seattle, WA | https://boards.greenhouse.io/lyft/jobs/4374104002?gh_jid=4374104002 |
 | Mathwork | Engineering Development Group | US-MA-Natick | https://www.mathworks.com/company/jobs/opportunities/16217-multiple-openings-engineering-development-group-u-s?job_type_id[]=1756& |
 | Microsoft | Software Engineer, Data Science | Redmond, Washington, United States / Reston, Virginia, United States / Pittsburgh, Pennsylvania, United States | https://careers.microsoft.com/students/us/en |
+| Mongo | Software Engineer | New York, NY | https://www.mongodb.com/careers/jobs/1821543 |
 | Okta | Software Engineer New Grad | Bellevue, WA; San Jose, CA | https://www.okta.com/company/careers/engineering/software-engineer-new-grad-1864647/ |
-| Palantir | Software Engineer, University Grad | New York, NY, USA; Washington, D.C. | https://jobs.lever.co/palantir/136703f3-37a8-4308-84ef-4e2865daf577?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic https://jobs.lever.co/palantir/93ea128e-cad5-4c46-a42e-04bb9f6fdfbe?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic |
+| Palantir | Software Engineer, University Grad | New York, NY, USA; Washington, D.C. | https://jobs.lever.co/palantir/136703f3-37a8-4308-84ef-4e2865daf577, https://jobs.lever.co/palantir/93ea128e-cad5-4c46-a42e-04bb9f6fdfbe |
+| Pure Storage | Software Engineer | Mountain View, CA | https://boards.greenhouse.io/purestorage/jobs/1834451 |
 | Qualtrics | Software Engineer, College Grad | Provo, UT, USA; Seattle, WA, USA | https://boards.greenhouse.io/qualtrics/jobs/260179 |
 | Quantcast | Software Engineer, New Graduate 2020 | San Francisco, CA | https://jobs.lever.co/quantcast/cdcd6329-6d27-4639-98eb-0d0a762ee735 |
 | Quora | Software Engineer Apprentice | Mountain View, CA, USA | https://jobs.lever.co/quora/19c6eb11-22f1-4815-8382-0e78e70a6ddd?lever-source=glassdoor |
@@ -58,6 +62,7 @@ Confluent | Backend Software Engineer, New Grad | Palo Alto,CA | https://jobs.le
 | RetailMeNot | Software Engineer - New Grad | Austin, TX | https://jobs.lever.co/retailmenot/e882a767-649b-4c70-a23b-5662653d03c0 |
 | Robinhood | Android Engineer, Backend Engineer, Infrastructure Engineer, iOS Engineer, Security Engineer, Software Engineer (Data), Web Engineer | Menlo Park, CA, US | https://careers.robinhood.com/openings |
 | Rockset | Software Engineer | San Mateo, CA, US | https://hire.withgoogle.com/public/jobs/rocksetio/view/P_AAAAAADAAADMgOiflDNuLe |
+| Rubrik | Software Engineer | Palo Alto, CA | https://www.rubrik.com/company/careers/university-talent/jobs/software-engineer-university-grad-83110/ |
 | Samsara | Software Engineer | San Francisco, CA, US; Atlanta, GA, US | https://boards.greenhouse.io/samsara/jobs/1806764 https://boards.greenhouse.io/samsara/jobs/1818464|
 | Stripe | Software Engineer | Seattle, WA, US | https://stripe.com/jobs/listing/new-grad-software-engineer/1802651 |
 | Sumo Logic | Advanced Analytics Software Engineer, Frontend Software Engineer (Fresh Grad 2020) | Redwood City, CA, US | https://boards.greenhouse.io/sumologic/jobs/1849474 https://boards.greenhouse.io/sumologic/jobs/1776092|

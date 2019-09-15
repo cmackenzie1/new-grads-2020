@@ -71,7 +71,7 @@ A collection of new grad roles for 2020.
 | Twilio | Software Engineer- New Grad | San Francisco CA, US; Denver, CO, USl; Irvine, CA, US; Redwood City, CA, US | https://boards.greenhouse.io/twilio/jobs/1828798 
 | Twitter | Software Engineer | San Francisco, CA, USA | https://jobs.smartrecruiters.com/ni/Twitter2/c9c8d155-aab8-43cb-a530-629689467768-2020-university-application-full-time-internship |
 | Uber | Software Engineer | San Francisco, New York, Boulder, Palo Alto | https://www.uber.com/global/en/careers/list/54740/ |
-| Viasat Inc. | Software Engineer University Grad | Cleveland, OH, USA | https://careers.viasat.com/careers/FolderDetail/Software-Engineer-University-Grad/3994?source=LinkedIn |
+| Viasat Inc. | Software Engineer University Grad | Cleveland, OH, USA | https://careers.viasat.com/careers/FolderDetail/Software-Engineer-University-Grad/3994 |
 | Virtu Financial | Software Engineer, Financial Systems Dev | New York, NY, USA | https://boards.greenhouse.io/virtu/jobs/4301070002?gh_src=a40b00752 , https://boards.greenhouse.io/virtu/jobs/4263612002?gh_src=af02fdb02 |
 | Visa | Software Engineer, New Grad | New York, NY, US; San Francisco, CA, US | https://jobs.smartrecruiters.com/Visa/743999694382127-new-college-grad-software-engineer-bachelor-s-degree-multiple-locations | 
 | Willowtree | Software Engineer - New Grad, Software Test Engineer - New Grad | Durham, NC | https://willowtreeapps.com/careers/jobs/4380969002/software-engineer-new-grad, https://willowtreeapps.com/careers/jobs/4381010002/software-test-engineer-new-grad |

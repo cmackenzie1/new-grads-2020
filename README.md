@@ -53,6 +53,7 @@ A collection of new grad roles for 2020.
 | Microsoft | Software Engineer, Data Science | Redmond, Washington, United States / Reston, Virginia, United States / Pittsburgh, Pennsylvania, United States | https://careers.microsoft.com/students/us/en |
 | Mongo | Software Engineer | New York, NY | https://www.mongodb.com/careers/jobs/1821543 |
 | Okta | Software Engineer New Grad | Bellevue, WA; San Jose, CA | https://www.okta.com/company/careers/engineering/software-engineer-new-grad-1864647/ |
+| Oscar | Software Engineer New Grad | LA; NYC | https://www.hioscar.com/careers/1844816,  https://www.hioscar.com/careers/1845316 |
 | Palantir | Software Engineer, University Grad | New York, NY, USA; Washington, D.C. | https://jobs.lever.co/palantir/136703f3-37a8-4308-84ef-4e2865daf577, https://jobs.lever.co/palantir/93ea128e-cad5-4c46-a42e-04bb9f6fdfbe |
 | Pure Storage | Software Engineer | Mountain View, CA | https://boards.greenhouse.io/purestorage/jobs/1834451 |
 | Qualtrics | Software Engineer, College Grad | Provo, UT, USA; Seattle, WA, USA | https://boards.greenhouse.io/qualtrics/jobs/260179 |

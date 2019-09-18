@@ -17,7 +17,6 @@ A collection of new grad roles for 2020.
 | Akuna Capital | Junior Developer | Chicago, IL | https://akunacapital.com/job-details?gh_jid=1755321 |
 | Amazon | Software Development Engineer | Seattle, WA; Austin, TX; Bay Area, CA; Bellevue, WA; Boston, MA; Denver, CO; Detroit, MI; Herndon, VA; Irvine, CA; New York, NY; Madison, WI; Minneapolis, MN; Phoenix, AZ; Portland, OR; San Diego, CA. | https://www.amazon.jobs/en/jobs/908703/software-development-engineer-2020-united-states |
 | American Express | Software Engineer | Phoenix, AZ, USA; Ft. Lauderdale, FL, USA; New York, NY, USA | https://jobs.americanexpress.com/jobs/19013265?lang=en-us&previousLocale=en-US |
-| Apple | Software Engineer (Siri Rotational Program) | Cupertino, CA | https://jobs.apple.com/en-us/details/200078270/siri-software-engineer-siri-rotational-program?team=MLAI |
 | Applied Intuition | Software Engineer | Sunnyvale, CA | https://hire.withgoogle.com/public/jobs/appliedintuitioncom/view/P_AAAAAADAAAONASDXZTBdvp |
 | Atlassian | Software Developer- 2020 Graduate | Mountain View, CA, USA | https://www.atlassian.com/company/careers/detail/5f0772a8-6df5-40f0-8f1a-044effca6699 |
 | Bloomberg | Software Engineer | New York, NY | https://careers.bloomberg.com/job/detail/76851 |

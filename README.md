@@ -57,6 +57,7 @@ A collection of new grad roles for 2020.
 | Oscar | Software Engineer New Grad | LA; NYC | https://www.hioscar.com/careers/1844816,  https://www.hioscar.com/careers/1845316 |
 | Palantir | Software Engineer, University Grad | New York, NY, USA; Washington, D.C. | https://jobs.lever.co/palantir/136703f3-37a8-4308-84ef-4e2865daf577, https://jobs.lever.co/palantir/93ea128e-cad5-4c46-a42e-04bb9f6fdfbe |
 | Peak6 | Software Engineer | Chicago, IL | https://www.peak6.com/open-positions/?gh_jid=1829946|
+| Pinterest | Software Engineer | San Francisco, CA; Seattle, WA | https://careers.pinterest.com/careers/details/1730518 https://careers.pinterest.com/careers/details/1852166|
 | Pure Storage | Software Engineer | Mountain View, CA | https://boards.greenhouse.io/purestorage/jobs/1834451 |
 | Qualtrics | Software Engineer, College Grad | Provo, UT, USA; Seattle, WA, USA | https://boards.greenhouse.io/qualtrics/jobs/260179 |
 | Quantcast | Software Engineer, New Graduate 2020 | San Francisco, CA | https://jobs.lever.co/quantcast/cdcd6329-6d27-4639-98eb-0d0a762ee735 |

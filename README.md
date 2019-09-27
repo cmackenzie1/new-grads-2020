@@ -61,7 +61,6 @@ A collection of new grad roles for 2020.
 | Pure Storage | Software Engineer | Mountain View, CA | https://boards.greenhouse.io/purestorage/jobs/1834451 |
 | Qualtrics | Software Engineer, College Grad | Provo, UT, USA; Seattle, WA, USA | https://boards.greenhouse.io/qualtrics/jobs/260179 |
 | Quantcast | Software Engineer, New Graduate 2020 | San Francisco, CA | https://jobs.lever.co/quantcast/cdcd6329-6d27-4639-98eb-0d0a762ee735 |
-| Quora | Software Engineer Apprentice | Mountain View, CA, USA | https://jobs.lever.co/quora/19c6eb11-22f1-4815-8382-0e78e70a6ddd?lever-source=glassdoor |
 | Redfin | Software Developer I | Frisco, TX, USA; Seattle, WA, USA; San Francisco, CA, USA | https://redfin.wd1.myworkdayjobs.com/redfin_careers/job/WA---Seattle/Software-Developer-I---Seattle--WA---San-Francisco--CA---Frisco--TX_23751 |
 | RetailMeNot | Software Engineer - New Grad | Austin, TX | https://jobs.lever.co/retailmenot/e882a767-649b-4c70-a23b-5662653d03c0 |
 | Robinhood | Android Engineer, Backend Engineer, Infrastructure Engineer, iOS Engineer, Security Engineer, Software Engineer (Data), Web Engineer | Menlo Park, CA, US | https://careers.robinhood.com/openings |

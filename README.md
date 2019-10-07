@@ -78,6 +78,7 @@ A collection of new grad roles for 2020.
 | Sumo Logic | Advanced Analytics Software Engineer, Frontend Software Engineer (Fresh Grad 2020) | Redwood City, CA, US | https://boards.greenhouse.io/sumologic/jobs/1849474 https://boards.greenhouse.io/sumologic/jobs/1776092|
 | Teachable | Software Engineer (New Graduate) 2020 | New York, USA | https://teachable.com/job_posts/c95762f0-1ea4-4e83-a855-d020f722c445 |
 | Thumbtack | Software Engineer | San Francisco, CA, USA | https://boards.greenhouse.io/thumbtack/jobs/1814757?gh_src=6262b31c1 |
+| TripActions | Software Engineer (New Grad) | Palo Alto, CA | https://tripactions.com/job-openings/1866432?gh_jid=1866432 |
 | Twilio | Software Engineer- New Grad | San Francisco CA, US; Denver, CO, USl; Irvine, CA, US; Redwood City, CA, US | https://boards.greenhouse.io/twilio/jobs/1828798 
 | Twitter | Software Engineer | San Francisco, CA, USA | https://jobs.smartrecruiters.com/ni/Twitter2/c9c8d155-aab8-43cb-a530-629689467768-2020-university-application-full-time-internship |
 | Uber | Software Engineer | San Francisco, New York, Boulder, Palo Alto | https://www.uber.com/global/en/careers/list/54740/ |

@@ -52,6 +52,7 @@ A collection of new grad roles for 2020.
 |Jet Propulsion Lab|Software Systems & Applications Engineer; Systems Engineer; Software Computing Systems Engineer| Pasadena, CA | https://jpl.jobs/jobs/2019-10912-Software-Systems-and-Applications-Engineer-New-Grads https://jpl.jobs/jobs/2019-10913-Software-Computing-Systems-Engineer-New-Grad https://jpl.jobs/jobs/2019-10907-Systems-Engineer-New-Grad |
 | Joyent | Software Engineer -- Manta (Object Storage, Distributed Systems, OS kernel)| San Francisco, CA; remote-friendly | https://www.joyent.com/about/careers/software-engineer-triton-object-storage-sf |
 | JPMorgan Chase | Software Engineer Program | New York, NY; Chicago, IL; Columbus, OH; Houston, TX; Newark/Wilmington, DE; Plano, TX; San Francisco, CA; Seattle, WA; Tampa, FL| https://careers.jpmorgan.com/us/en/students/programs/software-engineer-fulltime |
+| LeetCode | Full Stack Software Engineer (New Grad) | Palo Alto, CA | https://leetcode.com/jobs/ |
 | Lime | Software Engineer | Bay Area, CA, USA | https://jobs.lever.co/limebike/fbea1c67-c6a9-42ba-a0a3-475098487a99 |
 | LinkedIn | Entry Level Software Engineer | Sunnyvale, CA, US | https://careers.linkedin.com/students/Entry-Level/Technical |
 | Lucid | Software Engineer | Salt Lake City, UT, USA | https://www.golucid.co/careers/dd5e02ef-552e-4838-8892-65acb4919b05 |

@@ -42,6 +42,7 @@ A collection of new grad roles for 2020.
 | Factual | Software Engineer, New Grad | Los Angeles, CA | https://www.factual.com/company/careers/?gh_jid=276588 |
 | Flexport | Software Engineer: New Graduate | San Francisco, CA | https://boards.greenhouse.io/flexport/jobs/1802505 |
 | Figma | Software Engineer - New Grad | San Francisco | https://jobs.lever.co/figma/8def0709-75f2-415d-9360-30fcfdf15587 |
+| General Motors | Software Developer | Austin, TX | [Apply](https://search-careers.gm.com/job/GENEA0084INF0022248/Early-Career-Information-Technology-Software-Developer-Austin-TX-INF0022248) |
 | Goldman Sach's | New Analyst | New York, NY, USA; Salt Lake City, UT, USA | https://www.goldmansachs.com/careers/students/programs/americas/new-analyst-program.html |
 | Google | Software Engineer, University Graduate | Mountain View, CA, USA; Austin, TX, USA; Boulder, CO, USA; Kirkland, WA, USA; Madison, WI, USA; Pittsburgh, PA, USA; Seattle, WA, USA | https://careers.google.com/jobs/results/132614933129896646/ |
 | Gusto | Software Engineer, 2020 University Grad | San Francisco, CA, USA; Denver, CO, USA | https://boards.greenhouse.io/gusto/jobs/1861893 |
@@ -64,6 +65,7 @@ A collection of new grad roles for 2020.
 | Okta | Software Engineer New Grad | Bellevue, WA; San Jose, CA | https://www.okta.com/company/careers/engineering/software-engineer-new-grad-1864647/ |
 | Oscar | Software Engineer New Grad | LA; NYC | https://www.hioscar.com/careers/1844816,  https://www.hioscar.com/careers/1845316 |
 | Palantir | Software Engineer, University Grad | New York, NY, USA; Washington, D.C. | https://jobs.lever.co/palantir/136703f3-37a8-4308-84ef-4e2865daf577, https://jobs.lever.co/palantir/93ea128e-cad5-4c46-a42e-04bb9f6fdfbe |
+| Paypal | Software Engineer | San Jose, CA | [Apply](https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/San-Jose/Software-Engineer---University-Graduate_R0047847)|
 | Peak6 | Software Engineer | Chicago, IL | https://www.peak6.com/open-positions/?gh_jid=1829946|
 | Pinterest | Software Engineer | San Francisco, CA; Seattle, WA | https://careers.pinterest.com/careers/details/1730518 https://careers.pinterest.com/careers/details/1852166|
 | Pure Storage | Software Engineer | Mountain View, CA | https://boards.greenhouse.io/purestorage/jobs/1834451 |

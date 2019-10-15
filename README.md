@@ -55,7 +55,7 @@ A collection of new grad roles for 2020.
 | JPMorgan Chase | Software Engineer Program | New York, NY; Chicago, IL; Columbus, OH; Houston, TX; Newark/Wilmington, DE; Plano, TX; San Francisco, CA; Seattle, WA; Tampa, FL| https://careers.jpmorgan.com/us/en/students/programs/software-engineer-fulltime |
 | LeetCode | Full Stack Software Engineer (New Grad) | Palo Alto, CA | https://leetcode.com/jobs/ |
 | Lime | Software Engineer | Bay Area, CA, USA | https://jobs.lever.co/limebike/fbea1c67-c6a9-42ba-a0a3-475098487a99 |
-| Liberty Mutual Insurance | Software Engineer | Seattle, Boston, Dover, Indianapolis | https://lmig.taleo.net/careersection/lmigcampus/jobdetail.ftl
+| Liberty Mutual Insurance | Software Engineer | Seattle, Boston, Dover, Indianapolis | https://lmig.taleo.net/careersection/lmigcampus/jobdetail.ftl |
 | LinkedIn | Entry Level Software Engineer | Sunnyvale, CA, US | https://careers.linkedin.com/students/Entry-Level/Technical |
 | Lucid | Software Engineer | Salt Lake City, UT, USA | https://www.golucid.co/careers/dd5e02ef-552e-4838-8892-65acb4919b05 |
 | Lyft | 2020 New Grad Software Engineer, Generalist | San Francisco, CA, Seattle, WA | https://boards.greenhouse.io/lyft/jobs/4374104002?gh_jid=4374104002 |

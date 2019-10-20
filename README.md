@@ -92,6 +92,7 @@ A collection of new grad roles for 2020.
 | Viasat Inc. | Software Engineer University Grad | Cleveland, OH, USA | https://careers.viasat.com/careers/FolderDetail/Software-Engineer-University-Grad/3994 |
 | Virtu Financial | Quant, Software Engineer, Financial Systems Dev, Core Java Dev | New York, NY, USA | https://boards.greenhouse.io/virtu/jobs/4416406002 , https://boards.greenhouse.io/virtu/jobs/4301070002 , https://boards.greenhouse.io/virtu/jobs/4263612002 , https://boards.greenhouse.io/virtu/jobs/4270767002 |
 | Visa | Software Engineer, New Grad | New York, NY, US; San Francisco, CA, US | https://jobs.smartrecruiters.com/Visa/743999694382127-new-college-grad-software-engineer-bachelor-s-degree-multiple-locations | 
+| VMware | New Graduate - IT, Associate Software Engineer in Threat, Associate SRE, New Grad - Quality Engineering | Palo Alto, CA; Boston, MA; Boulder, CO | https://careers.vmware.com/category/university-and-recent-grads-jobs/1567/44358/1/2 |
 | Wealthfront | Software Engineer - New College Graduate | Palo Alto, CA | https://jobs.lever.co/wealthfront/a419021a-ecc0-48c8-9245-d6225bb006f4
 | Willowtree | Software Engineer - New Grad, Software Test Engineer - New Grad | Durham, NC | https://willowtreeapps.com/careers/jobs/4380969002/software-engineer-new-grad, https://willowtreeapps.com/careers/jobs/4381010002/software-test-engineer-new-grad |
 | Wish | Software Engineer, New Grad | San Francisco, CA | https://jobs.lever.co/wish/2173348c-7453-4363-aabd-ba8511e31bea |

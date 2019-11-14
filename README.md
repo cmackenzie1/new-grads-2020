@@ -81,7 +81,6 @@ A collection of new grad roles for 2020.
 | Rubrik | Software Engineer | Palo Alto, CA | https://www.rubrik.com/company/careers/university-talent/jobs/software-engineer-university-grad-83110/ |
 | Samsara | Software Engineer | San Francisco, CA, US; Atlanta, GA, US | https://boards.greenhouse.io/samsara/jobs/1806764 https://boards.greenhouse.io/samsara/jobs/1818464|
 | Spatial | Software Engineer | New York, NY, US; San Francisco, CA, US; | https://apply.workable.com/spatial/j/A67A3771F0/|
-
 | Square | Software Engineer | San Francisco, CA, USA | https://www.smartrecruiters.com/Square/743999695908102 |
 | Square Space | Software Engineer | New York, NY | https://www.squarespace.com/careers/jobs/1852860 |
 | Stripe | Software Engineer | Seattle, WA, US | https://stripe.com/jobs/listing/new-grad-software-engineer/1802651 |

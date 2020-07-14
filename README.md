@@ -1,4 +1,12 @@
-# new-grads-2020
+# new-grads-2020 [ARCHIVED]
+
+## UPDATE: The application period for the majority of any 2020 New Grad roles has passed. Please look at 2021 for New Grad roles!
+See: https://github.com/Pitt-CSC/NewGrad-2021
+
+This repo will be archived.
+
+---
+
 A collection of new grad roles for 2020.
 
 ## Contributing
